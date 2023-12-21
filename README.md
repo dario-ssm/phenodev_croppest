@@ -16,7 +16,7 @@ Data on development rate of *Pieris rapae* pupae across temperatures were obtain
 
 ### Climatic data: 
 
-**Spain02 v5**  (Herrera *et al.* 2016 & Kotlarsky *et al.* 2017); see http://www.meteo.unican.es/datasets/spain02)
+**Spain02 v5**  (Herrera *et al.* 2016 & Kotlarsky *et al.* 2017; see http://www.meteo.unican.es/datasets/spain02)
 
 *Aknowledgements*: The authors thank AEMET and UC by the data provided for this work (Spain02v5 gridded temperature data set)
 
