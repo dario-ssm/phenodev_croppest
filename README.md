@@ -1,7 +1,7 @@
 # phenodev_croppest
 
 ### Overview:
-Repository with R Code for analyses of the submitted paper: *Predicting crop pest phenology: integration of ecological insights and existing development models* 
+Repository with R Code for analyses producing the results of *Predicting crop pest phenology: integration of ecological insights and existing development models* [current update: submitted]
 
 ### Authors:
 Darío San Segundo Molina (University of Alcalá, Dpt. Life Sciences)
