@@ -1,7 +1,5 @@
 # phenodev_croppest
 
-![*Aglais io*, summer 2020, Central Spain]()
-
 ### Overview:
 Repository with R Code for analyses of the submitted paper: *Predicting crop pest phenology: integration of ecological insights and existing development models* 
 
