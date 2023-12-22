@@ -1,11 +1,12 @@
 # phenodev_croppest
 
+![*Aglais io*, summer 2020, Central Spain]()
+
 ### Overview:
 Repository with R Code for analyses of the submitted paper: *Predicting crop pest phenology: integration of ecological insights and existing development models* 
 
 ### Authors:
 Darío San Segundo Molina (University of Alcalá, Dpt. Life Sciences)
-
 Ignacio Morales Castilla (University of Alcalá, Dpt. Life Sciences)
 
 ### Ecological data used:
@@ -15,7 +16,7 @@ Data on development rate of *Pieris rapae* pupae across temperatures were obtain
 
 ### Climatic data: 
 
-**Spain02 v5**  (Herrera *et al.* 2016 & Kotlarsky *et al.* 2017; see http://www.meteo.unican.es/datasets/spain02)
+**Spain02 v5**  (Herrera *et al.* 2016 & Kotlarsky *et al.* 2017); see http://www.meteo.unican.es/datasets/spain02)
 
 *Aknowledgements*: The authors thank AEMET and UC by the data provided for this work (Spain02v5 gridded temperature data set)
 
